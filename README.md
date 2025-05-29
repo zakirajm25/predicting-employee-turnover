@@ -27,7 +27,7 @@
 ---
 
 ## 1. Project Overview
-This project addresses the critical issue of employee attrition at Salifort Motors by applying data science methodologies. Through in-depth exploratory data analysis (EDA) and the development of various predictive machine learning models—including logistic regression, decision trees, random forests, and XGBoost—this initiative aims to uncover the primary drivers of employee turnover. The ultimate goal is to equip Salifort Motors' HR department with a robust model capable of identifying employees at risk of leaving, thereby enabling targeted interventions to improve satisfaction and retention.
+This project addresses the critical issue of employee attrition at Salifort Motors by applying data science methodologies. Through in-depth exploratory data analysis (EDA) and the development of various predictive machine learning models—including logistic regression, decision trees, and random forests—this initiative aims to uncover the primary drivers of employee turnover. The ultimate goal is to equip Salifort Motors' HR department with a robust model capable of identifying employees at risk of leaving, thereby enabling targeted interventions to improve satisfaction and retention.
 
 ---
 
