@@ -144,6 +144,7 @@ Hyperparameter tuning was performed using `GridSearchCV` with cross-validation o
 [Embed Visualization: ROC Curves for Key Models - e.g., `images/roc_curves.png`]
 [Embed Visualization: Confusion Matrix for the Champion Model - e.g., `images/champion_confusion_matrix.png`]
 [Embed Visualization: Feature Importance Plot for the Champion Model - e.g., `images/champion_feature_importance.png`]
+```
 ---
 
 ## 5. Key Questions Answered
