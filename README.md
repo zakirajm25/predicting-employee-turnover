@@ -81,9 +81,9 @@ Initial data examination and cleaning involved:
 ### Key EDA Insights & Visualizations
 *(Placeholder: This is a critical section. Expand with specific, quantified insights and embed 2-3 key visualizations that tell a story about the data. Examples:)*
 * **Attrition Profile:** The cleaned dataset revealed an overall attrition rate of approximately 16.6% (1,991 out of 11,991 employees).
-    ```markdown
-    ![Distribution of Employees Who Left vs. Stayed](images/left_vs_stayed_ratio.png)
-    ```
+   
+    ![Employees Who Left vs. Stayed](images/left_vs_stayed_ratio.png)
+
 * **Workload Indicators:** A strong correlation was observed between `average_monthly_hours`, `number_project`, and attrition.
     * *(Placeholder: Specific insight, e.g., "Employees working on 7 projects had a 100% attrition rate, while those with 3-4 projects showed higher retention.")*
     * *(Placeholder: Specific insight, e.g., "Employees who left were often found in two groups: those working significantly fewer hours (avg. X hrs) or significantly more hours (avg. Y hrs) than their peers.")*
