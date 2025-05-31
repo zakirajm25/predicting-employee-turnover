@@ -82,20 +82,20 @@ Initial data examination and cleaning involved:
 *(Placeholder: This is a critical section. Expand with specific, quantified insights and embed 2-3 key visualizations that tell a story about the data. Examples:)*
 * **Attrition Profile:** The cleaned dataset revealed an overall attrition rate of approximately 16.6% (1,991 out of 11,991 employees).
    
-    ![Employees Who Left vs. Stayed](images/left_vs_stayed_ratio.png)
+    ![Employees Who Left vs. Stayed](images/1_left_vs_stayed_ratio.png)
 
 * **Workload Indicators:** A strong correlation was observed between `average_monthly_hours`, `number_project`, and attrition.
     * *(Placeholder: Specific insight, e.g., "Employees working on 7 projects had a 100% attrition rate, while those with 3-4 projects showed higher retention.")*
     * *(Placeholder: Specific insight, e.g., "Employees who left were often found in two groups: those working significantly fewer hours (avg. X hrs) or significantly more hours (avg. Y hrs) than their peers.")*
-    ```markdown
-    ![Monthly Hours by Number of Projects, Segmented by Attrition](images/monthly_hours_by_projects.png)
-    ```
+    
+    ![Monthly Hours by Number of Projects, Segmented by Attrition](images/2_monthly_hours_by_projects.png)
+  
 * **Satisfaction & Tenure Dynamics:**
     * Employees who left had a mean satisfaction score of 0.44 (median 0.41), compared to 0.67 (median 0.69) for those who stayed.
     * *(Placeholder: Specific insight about tenure, e.g., "A notable dip in satisfaction and spike in attrition occurred around the 4-year tenure mark for employees who left.")*
-    ```markdown
-    ![Satisfaction Level by Tenure, Segmented by Attrition](images/satisfaction_by_tenure.png)
-    ```
+      
+    ![Satisfaction Level by Tenure, Segmented by Attrition](images/3_satisfaction_by_tenure.png)
+  
 * *(Placeholder: Other significant findings, e.g., from `salary` or `last_evaluation` distributions. For each, provide a brief textual insight and the Markdown for the embedded image.)*
 
 ---
