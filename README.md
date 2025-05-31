@@ -85,8 +85,10 @@ Initial data examination and cleaning involved:
     ![Employees Who Left vs. Stayed](images/1_left_vs_stayed_ratio.png)
 
 * **Workload Indicators:** A strong correlation was observed between `average_monthly_hours`, `number_project`, and attrition.
-    * *(Placeholder: Specific insight, e.g., "Employees working on 7 projects had a 100% attrition rate, while those with 3-4 projects showed higher retention.")*
-    * *(Placeholder: Specific insight, e.g., "Employees who left were often found in two groups: those working significantly fewer hours (avg. X hrs) or significantly more hours (avg. Y hrs) than their peers.")*
+    * *(Employees working on 7 projects had a 100% attrition rate, while those with 3-4 projects showed higher retention.)*
+    * *(If we assumea work week of 40 hours and two weeks of vacation per year, then the average number of working hours per month of employees working Monday–Friday = 50 weeks * 40 hours per week / 12 months = 166.67 hourse per month. The interquartile ranges of employees working on 7 project and those who left with 6 projects was ~255-295 hours/month--much more than any other group). This means that, aside from the employees who worked on 2 projects, every group—even those who didn't leave the company—worked considerabaly more hours than this. It seems that employees are overworked.*
+    * *(Employees who left were often found in two groups: those working significantly fewer hours or significantly more hours than their peers.)*
+  
     
     ![Monthly Hours by Number of Projects, Segmented by Attrition](images/2_monthly_hours_by_projects.png)
   
